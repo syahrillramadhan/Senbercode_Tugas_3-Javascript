@@ -3,13 +3,13 @@
 Ini adalah tugas pekanan 3 dari bootcamp senbercode terkait learn javascript,
 TUGAS PEKANAN 3:
 
-1. Soal 1
+1. Soal 1 - 
 Buatlah sebuah program dari akar pangkat 2 dari x dengan x harus bilangan genap, dengan kondisi sebagai berikut :
 - Jika user input angka kurang dari 0 , user get error message "Tidak bisa input bilangan negatif" 
 - Jika user input angka ganjil, user get error message "Tidak bisa input bilangan ganjil"
 Hint : gunakan rumus sqrt(x)
 
-2. Soal 2
+2. Soal 2 - 
 Misalkan terdapat response API sebagai berikut. 
 
 let productBin = {
