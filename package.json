@@ -1,0 +1,22 @@
+{
+  "name": "javascript-tugas-3-bercode---syahril",
+  "version": "1.0.0",
+  "description": "Tugas pekanan 3 javascript senbercode",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syahrillramadhan/Senbercode_Tugas_3-Javascript.git"
+  },
+  "author": "syahril ramadhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syahrillramadhan/Senbercode_Tugas_3-Javascript/issues"
+  },
+  "homepage": "https://github.com/syahrillramadhan/Senbercode_Tugas_3-Javascript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
