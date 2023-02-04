@@ -1,1 +1,1 @@
-# Senbercode_Tugas_3-Javascript
+# Senbercode Tugas 3 - Javascript
