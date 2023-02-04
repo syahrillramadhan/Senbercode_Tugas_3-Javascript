@@ -1,6 +1,6 @@
 # Senbercode Tugas 3 - Javascript
 
-Ini adalah tugas pekanan 3 dari bootcamp senbercode terkait learn javascript,
+Ini adalah tugas pekanan 3 dari bootcamp senbercode learn javascript,
 TUGAS PEKANAN 3:
 
 1. Soal 1 - 
