@@ -4,7 +4,8 @@
   "description": "Tugas pekanan 3 javascript senbercode",
   "main": "soal1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "soal1": "node soal1-square_root.js",
+    "soal2": "node soal2-filterSum.js"
   },
   "repository": {
     "type": "git",
